@@ -1,3 +1,7 @@
+# Flex for PyCon Israel
+
+Forked from https://github.com/alexandrevicenzi/Flex/
+
 # Flex
 
 The minimalist [Pelican](http://blog.getpelican.com/) theme.
